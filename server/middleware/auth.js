@@ -22,6 +22,4 @@ let auth = (req, res, next) => {
 
 }
 
-<SpecifiComponent {...props} />
-
 module.exports = { auth };
